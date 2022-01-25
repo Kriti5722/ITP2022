@@ -41,19 +41,8 @@ touch main.py
 .
 .
 ```
----
-Run the code
-```
-python main.py
-```
-Output
-```
-Curve fitting using Least squares Approximation
-```
----
-**Test case**
-Find max
-```
+---Frequency count.C
+
 Test Case-1
 
 Input:
